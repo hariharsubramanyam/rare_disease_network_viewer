@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<network>
+  <node label="Jackson-Weiss syndrome" id="-89">
+    <att type="string" name="ID" value="Jackson-Weiss syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="1540" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Deafness with labyrinthine aplasia, microtia, and microdontia"
+  id="-149">
+    <att type="string" name="ID"
+    value="Deafness with labyrinthine aplasia, microtia, and microdontia" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit"
+    value="Autosomal recessive" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="90024" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Permanent neonatal diabetes mellitus" id="-2142">
+    <att type="string" name="ID"
+    value="Permanent neonatal diabetes mellitus" />
+    <att type="integer" name="Orphnet ID" value="99885" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Hypophosphatemic rickets" id="-3880">
+    <att type="string" name="ID"
+    value="Hypophosphatemic rickets" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="" />
+    <att type="integer" name="Orphnet ID" value="89937" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="" />
+    <att type="string" name="Type" value="Disease Group" />
+  </node>
+  <node label="Apert syndrome" id="-1264">
+    <att type="string" name="ID" value="Apert syndrome" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="87" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Crouzon disease" id="-1134">
+    <att type="string" name="ID" value="Crouzon disease" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="207" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="LEOPARD syndrome" id="-1975">
+    <att type="string" name="ID" value="LEOPARD syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="500" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="FGFR2" id="-6202">
+    <att type="string" name="ID" value="FGFR2" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="FGF3" id="-5854">
+    <att type="string" name="ID" value="FGF3" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Aplasia of lacrimal and salivary glands" id="-4919">
+    <att type="string" name="ID"
+    value="Aplasia of lacrimal and salivary glands" />
+    <att type="integer" name="Orphnet ID" value="86815" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="FGF9" id="-5851">
+    <att type="string" name="ID" value="FGF9" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="FGF23" id="-7006">
+    <att type="string" name="ID" value="FGF23" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Hypochondroplasia" id="-5199">
+    <att type="string" name="ID" value="Hypochondroplasia" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="429" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Saethre-Chotzen syndrome" id="-3511">
+    <att type="string" name="ID"
+    value="Saethre-Chotzen syndrome" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="794" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Noonan syndrome" id="-3920">
+    <att type="string" name="ID" value="Noonan syndrome" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="648" />
+    <att type="integer" name="PrevMapVal" value="5" />
+    <att type="string" name="Prevalence" value="1-5 / 10 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Thanatophoric dwarfism type I" id="-1637">
+    <att type="string" name="ID"
+    value="Thanatophoric dwarfism type I" />
+    <att type="integer" name="Orphnet ID" value="1860" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Tumoral calcinosis" id="-356">
+    <att type="string" name="ID" value="Tumoral calcinosis" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit"
+    value="Autosomal recessive" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="53715" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="FGF10" id="-6997">
+    <att type="string" name="ID" value="FGF10" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Isolated trigonocephaly" id="-2715">
+    <att type="string" name="ID" value="Isolated trigonocephaly" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="3366" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Vitamin D resistant rickets" id="-1392">
+    <att type="string" name="ID"
+    value="Vitamin D resistant rickets" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="437" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease Group" />
+  </node>
+  <node label="Normosmic congenital hypogonadotropic hypogonadism"
+  id="-2329">
+    <att type="string" name="ID"
+    value="Normosmic congenital hypogonadotropic hypogonadism" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="432" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Camptodactyly - tall stature - scoliosis - hearing loss"
+  id="-3266">
+    <att type="string" name="ID"
+    value="Camptodactyly - tall stature - scoliosis - hearing loss" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="85164" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Multiple synostoses" id="-3396">
+    <att type="string" name="ID" value="Multiple synostoses" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="3237" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Muenke syndrome" id="-885">
+    <att type="string" name="ID" value="Muenke syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="53271" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Osteoglophonic dwarfism" id="-4652">
+    <att type="string" name="ID" value="Osteoglophonic dwarfism" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="" />
+    <att type="integer" name="Orphnet ID" value="2645" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Hyperinsulinism due to INSR deficiency" id="-667">
+    <att type="string" name="ID"
+    value="Hyperinsulinism due to INSR deficiency" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset"
+    value="Adolescence / Young adulthood" />
+    <att type="integer" name="Orphnet ID" value="263458" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="INS" id="-5835">
+    <att type="string" name="ID" value="INS" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Pfeiffer syndrome" id="-539">
+    <att type="string" name="ID" value="Pfeiffer syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="710" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease Group" />
+  </node>
+  <node label="KL" id="-5949">
+    <att type="string" name="ID" value="KL" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Metachondromatosis" id="-4296">
+    <att type="string" name="ID" value="Metachondromatosis" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="2499" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="MODY syndrome" id="-4144">
+    <att type="string" name="ID" value="MODY syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Adulthood" />
+    <att type="integer" name="Orphnet ID" value="552" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="PTPN11" id="-6292">
+    <att type="string" name="ID" value="PTPN11" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Testicular seminoma" id="-7342">
+    <att type="string" name="ID" value="Testicular seminoma" />
+    <att type="string" name="Death" value="Any age" />
+    <att type="string" name="Inherit" value="Sporadic" />
+    <att type="string" name="Onset" value="Adulthood" />
+    <att type="integer" name="Orphnet ID" value="842" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+  </node>
+  <node label="Kallmann syndrome" id="-4008">
+    <att type="string" name="ID" value="Kallmann syndrome" />
+    <att type="string" name="Death" value="No data available" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="478" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="IRS1" id="-6185">
+    <att type="string" name="ID" value="IRS1" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="IRS2" id="-6181">
+    <att type="string" name="ID" value="IRS2" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Thanatophoric dwarfism type II" id="-4808">
+    <att type="string" name="ID"
+    value="Thanatophoric dwarfism type II" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="" />
+    <att type="integer" name="Orphnet ID" value="93274" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Neonatal diabetes mellitus" id="-3089">
+    <att type="string" name="ID"
+    value="Neonatal diabetes mellitus" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="224" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 1,000,000" />
+    <att type="string" name="Type" value="Disease Group" />
+  </node>
+  <node label="Cutis gyrata - acanthosis nigricans - craniosynostosis"
+  id="-4029">
+    <att type="string" name="ID"
+    value="Cutis gyrata - acanthosis nigricans - craniosynostosis" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="1555" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Leprechaunism" id="-623">
+    <att type="string" name="ID" value="Leprechaunism" />
+    <att type="string" name="Death" value="Before age 5" />
+    <att type="string" name="Inherit"
+    value="Autosomal recessive" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="508" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Crouzon syndrome - acanthosis nigricans" id="-2485">
+    <att type="string" name="ID"
+    value="Crouzon syndrome - acanthosis nigricans" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="93262" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Lacrimo-auriculo-dento-digital syndrome" id="-373">
+    <att type="string" name="ID"
+    value="Lacrimo-auriculo-dento-digital syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="2363" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="INSR" id="-7449">
+    <att type="string" name="ID" value="INSR" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Insulin-resistance syndrome type A" id="-1700">
+    <att type="string" name="ID"
+    value="Insulin-resistance syndrome type A" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Childhood" />
+    <att type="integer" name="Orphnet ID" value="2297" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Familial scaphocephaly syndrome, McGillivray type"
+  id="-3715">
+    <att type="string" name="ID"
+    value="Familial scaphocephaly syndrome, McGillivray type" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="168624" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Antley-Bixler syndrome type 1" id="-1087">
+    <att type="string" name="ID"
+    value="Antley-Bixler syndrome type 1" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit"
+    value="Autosomal recessive" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="263476" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="Achondroplasia" id="-2688">
+    <att type="string" name="ID" value="Achondroplasia" />
+    <att type="string" name="Death" value="Normal" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="15" />
+    <att type="integer" name="PrevMapVal" value="9" />
+    <att type="string" name="Prevalence" value="1-9 / 100 000" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="FGFR3" id="-6689">
+    <att type="string" name="ID" value="FGFR3" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="FGFR1" id="-6688">
+    <att type="string" name="ID" value="FGFR1" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="Juvenile myelomonocytic leukemia" id="-5400">
+    <att type="string" name="ID"
+    value="Juvenile myelomonocytic leukemia" />
+    <att type="string" name="Onset"
+    value="Adolescence / Young adulthood" />
+    <att type="integer" name="Orphnet ID" value="86834" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="" />
+  </node>
+  <node label="DEND syndrome" id="-2913">
+    <att type="string" name="ID" value="DEND syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit" value="Autosomal dominant" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="79134" />
+    <att type="integer" name="PrevMapVal" value="1" />
+    <att type="string" name="Prevalence"
+    value="&lt;1 / 1,000,000" />
+    <att type="string" name="Type" value="Disease Group" />
+  </node>
+  <node label="Rabson-Mendenhall syndrome" id="-1463">
+    <att type="string" name="ID"
+    value="Rabson-Mendenhall syndrome" />
+    <att type="string" name="Death" value="" />
+    <att type="string" name="Inherit"
+    value="Autosomal recessive" />
+    <att type="string" name="Onset" value="Neonatal/infancy" />
+    <att type="integer" name="Orphnet ID" value="769" />
+    <att type="integer" name="PrevMapVal" value="0" />
+    <att type="string" name="Prevalence" value="Unknown" />
+    <att type="string" name="Type" value="Disease" />
+  </node>
+  <node label="FGF8" id="-5849">
+    <att type="string" name="ID" value="FGF8" />
+    <att type="string" name="Type" value="Gene" />
+  </node>
+  <node label="REACTOME_PI3K_CASCADE" id="-8267">
+    <att type="string" name="ID" value="REACTOME_PI3K_CASCADE" />
+    <att type="string" name="Type" value="Pathway" />
+  </node>
+  <edge source="-89" target="-6688" />
+  <edge source="-89" target="-6202" />
+  <edge source="-149" target="-5854" />
+  <edge source="-2142" target="-5835" />
+  <edge source="-3880" target="-7006" />
+  <edge source="-1264" target="-6202" />
+  <edge source="-1134" target="-6202" />
+  <edge source="-1975" target="-6292" />
+  <edge source="-6202" target="-8267" />
+  <edge source="-5854" target="-8267" />
+  <edge source="-4919" target="-6997" />
+  <edge source="-5851" target="-8267" />
+  <edge source="-7006" target="-8267" />
+  <edge source="-5199" target="-6689" />
+  <edge source="-3511" target="-6202" />
+  <edge source="-3920" target="-6292" />
+  <edge source="-1637" target="-6689" />
+  <edge source="-356" target="-5949" />
+  <edge source="-356" target="-7006" />
+  <edge source="-6997" target="-8267" />
+  <edge source="-2715" target="-6688" />
+  <edge source="-1392" target="-7006" />
+  <edge source="-2329" target="-6688" />
+  <edge source="-3266" target="-6689" />
+  <edge source="-3396" target="-5851" />
+  <edge source="-885" target="-6689" />
+  <edge source="-4652" target="-6688" />
+  <edge source="-667" target="-7449" />
+  <edge source="-539" target="-6688" />
+  <edge source="-539" target="-6202" />
+  <edge source="-5949" target="-8267" />
+  <edge source="-4296" target="-6292" />
+  <edge source="-4144" target="-5835" />
+  <edge source="-6292" target="-8267" />
+  <edge source="-7342" target="-6689" />
+  <edge source="-4008" target="-5849" />
+  <edge source="-4008" target="-6688" />
+  <edge source="-6185" target="-8267" />
+  <edge source="-6181" target="-8267" />
+  <edge source="-4808" target="-6689" />
+  <edge source="-3089" target="-6185" />
+  <edge source="-3089" target="-6181" />
+  <edge source="-3089" target="-5835" />
+  <edge source="-4029" target="-6202" />
+  <edge source="-623" target="-7449" />
+  <edge source="-2485" target="-6689" />
+  <edge source="-373" target="-6202" />
+  <edge source="-373" target="-6997" />
+  <edge source="-373" target="-6689" />
+  <edge source="-7449" target="-8267" />
+  <edge source="-1700" target="-7449" />
+  <edge source="-3715" target="-6202" />
+  <edge source="-1087" target="-6202" />
+  <edge source="-2688" target="-6689" />
+  <edge source="-6689" target="-8267" />
+  <edge source="-6688" target="-8267" />
+  <edge source="-5400" target="-6292" />
+  <edge source="-2913" target="-5835" />
+  <edge source="-1463" target="-7449" />
+  <edge source="-5849" target="-8267" />
+</network>
